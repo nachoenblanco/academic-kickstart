@@ -20,14 +20,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Sociedad Española para el Procesamiento de Lenguaje Natural (SEPLN)"
-  organization_url = "http://www.hitz.eus/sepln2019/"
-  title = "SEPLN 2019 Congress"
-  url = "https://www.fundacion.uc3m.es/formacion/postgrado/aprendizaje-profundo-y-procesamiento-de-texto/"
-  certificate_url = "https://drive.google.com/open?id=1giSzB7MZkgJhzF33bieaSu-WyWr5xd_2"
-  date_start = "2019-09-24"
-  # date_end = "2019-09-27"
-  description = "National, yearly congress on NLP in Spain"
+  organization = "The Network Science Society"
+  organization_url = "https://netscisociety.net/home"
+  title = "International School and Conference on Network Science"
+  url = "https://netsci2018.wixsite.com/netsci2018"
+  certificate_url = "https://drive.google.com/file/d/1bFTWgz5ZI46EMojcYxYHmxo7EaqMAxyZ/view?usp=sharing"
+  date_start = "2018-06-11"
+  date_end = "2018-06-15"
+  description = "Anual, international conference on network sciences and its applications."
 
 [[item]]
   organization = "Carlos III University (UC3M)"

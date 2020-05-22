@@ -1,7 +1,7 @@
 ---
 title: "Using Network Science to Analyse Football Passing Networks: Dynamics, Space, Time, and the Multilayer Nature of the Game"
 date: 2018-10-01
-publishDate: 2020-05-21T18:07:40.494241Z
+publishDate: 2020-05-22T15:07:37.644404Z
 authors: ["Javier M. Buldú", "Javier Busquets", "Johann H. Martínez", "José L. Herrera-Diestra", "Ignacio Echegoyen", "Javier Galeano", "Jordi Luque"]
 publication_types: ["2"]
 abstract: ""

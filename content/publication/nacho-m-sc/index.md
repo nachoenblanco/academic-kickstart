@@ -1,7 +1,7 @@
 ---
 title: "Brain Network’s Synchronization Measures: a statistical approach"
 date: 2018-01-01
-publishDate: 2020-05-21T18:07:37.386601Z
+publishDate: 2020-05-22T15:07:35.904267Z
 authors: ["Ignacio Echegoyen"]
 publication_types: ["5"]
 abstract: ""

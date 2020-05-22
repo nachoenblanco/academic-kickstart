@@ -53,6 +53,30 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+  title = "Referee role"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "2019-01-01"
+  date_end = ""
+  description = """Paper revision in the field of network neuroscience (methods and clinical studies) for:
+
+  * Brain Topography
+  * Network Neuroscience
+  * Brain imaging and behaviour 
+  """
+
+[[experience]]
+  title = "Doctoral Stay"
+  company = "Brain Mapping Unit (BMU), Behavioural and Clinical Neuroscience Institute"
+  company_url = ""
+  location = "Department of psychiatry, University of Cambridge, (UK)"
+  date_start = "2018-09-02"
+  date_end = "2018-12-02"
+  description = """Project under the supervision of [Petra Vèrtes](https://www.neuroscience.cam.ac.uk/directory/profile.php?pv226) and [Ed Bullmore](https://www.neuroscience.cam.ac.uk/directory/profile.php?etb23). Application of the methods developed in my doctoral thesis to the dataset acquired in the BMU: 1) analyses of complexity/entropy, 2) functional brain networks construction, and 3) network metrics analysis. All methods were applied to resting-state fMRI time series from healthy, young population (14-25 y.o). The main goal is to explore the interplay between the evolution of the functional networks and the complexity and entropy of its time series, and how these changes are related to brain maduration.
+  """
+
+[[experience]]
   title = "Research assistant"
   company = "Comillas Pontifical University in collaboration with the Civil Guard"
   company_url = "https://www.chs.comillas.edu/es/laboratorio-de-psicologia"
