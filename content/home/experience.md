@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Research Experience"
-subtitle = ""
+title = "Experience"
+subtitle = "Courses, conferences and workshops"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -59,11 +59,27 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2019-01-01"
   date_end = ""
-  description = """Paper revision in the field of network neuroscience (methods and clinical studies) for:
+  description = """Paper revision in the field of network neuroscience for:
 
   * Brain Topography
   * Network Neuroscience
   * Brain imaging and behaviour 
+  """
+
+  [[experience]]
+  title = "Organizing Commitee"
+  company = "15th Experimental Chaos and Complexity Conference"
+  company_url = "https://eventos.urjc.es/9662/detail/15th-experimental-chaos-and-complexity-conference.html"
+  location = "Universidad Rey Juan Carlos - Campus Vicálvaro (Madrid, Spain)"
+  date_start = "2018-06-05"
+  date_end = "2018-06-07"
+  description = """ 
+
+  Responsibilities include:
+
+  * Logistics and organization (material, talks, participants, venue, catering)
+  * Participants welcome
+  * Auxiliar tasks 
   """
 
 [[experience]]

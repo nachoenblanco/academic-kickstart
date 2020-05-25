@@ -6,6 +6,6 @@ authors: ["J.L. Herrera-Diestra", "I. Echegoyen", "J.H. Martínez", "D. Garrido"
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Chaos, Solitons and Fractals (submitted)*"
+publication: "*Chaos, Solitons and Fractals (accepted)*"
 ---
 

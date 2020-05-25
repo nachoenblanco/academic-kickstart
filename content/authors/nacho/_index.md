@@ -16,9 +16,11 @@ role: Neuroscience researcher
 organizations:
 - name: Center for Biomedical Technology   UPM - URJC
   url: "http://www.ctb.upm.es/"
+- name: Interdisciplinar Group on Complex Systems
+  url: "http://valbuena.fis.ucm.es/gisc/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include complex networks analyses
+bio: Complex, Functional Brain Networks
 
 interests:
 - Complex Systems
@@ -31,12 +33,12 @@ interests:
 - Consciousness
 
 education:
-  courses:
-  - course: BSc in Psychology
-    institution: Comillas Pontifical University
+  courses: 
+  - course: BSc in Psychology                                
+    institution: Comillas Pontifical University                               
     year: 2011-15
   - course: MSc in Statistics and Methods for Social Sciences
-    institution: UAM-UCM-UNED (Madrid)
+    institution: UAM-UCM-UNED
     year: 2015-16
   - course: PhD in Biomedical Technology (neurosciences)
     institution: Technical University of Madrid; King Juan Carlos Univesity
